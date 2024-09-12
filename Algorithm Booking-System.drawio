@@ -1,11 +1,106 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13" pages="2">
   <diagram name="Page-1" id="5QftkC0PWjijTQVdT3ik">
     <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6sjoSg3MEzUZcmAQLXEk-1" value="PAGINATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;glass=0;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="40" y="10" width="360" height="40" as="geometry" />
+        <mxCell id="6sjoSg3MEzUZcmAQLXEk-1" value="&lt;h1&gt;PAGINATION&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;glass=0;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="830" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-1" value="Index Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHk8fC-tZNYStnNKeEQr-2" target="xHk8fC-tZNYStnNKeEQr-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xHk8fC-tZNYStnNKeEQr-5" target="xHk8fC-tZNYStnNKeEQr-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-5" value="User&amp;nbsp;&lt;div&gt;memilih&lt;div&gt;mobil yang&lt;/div&gt;&lt;div&gt;akan&amp;nbsp;&lt;/div&gt;&lt;div&gt;diboking&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-8" value="User menekan tombol &quot;booking now&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-10" value="Form-Booking Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHk8fC-tZNYStnNKeEQr-14" target="xHk8fC-tZNYStnNKeEQr-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xHk8fC-tZNYStnNKeEQr-8" target="xHk8fC-tZNYStnNKeEQr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHk8fC-tZNYStnNKeEQr-17" target="xHk8fC-tZNYStnNKeEQr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-17" value="Mengisi&amp;nbsp;&lt;div&gt;formulir identinas&lt;/div&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xHk8fC-tZNYStnNKeEQr-20" target="xHk8fC-tZNYStnNKeEQr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-20" value="User meneken&lt;div&gt;tombol &quot;pesan&lt;/div&gt;&lt;div&gt;sekarang!&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="285" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xHk8fC-tZNYStnNKeEQr-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="285" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vqFb9oybVDoFjFF3WWeC-1" value="insertData()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="455" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lPpZP6LzkKDqqo-HPEpt" name="Page-2">
+    <mxGraphModel dx="733" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UCGljsqjGGeIZDlOtYgl-1" value="&lt;h1&gt;Functions&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;glass=0;shadow=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="830" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UCGljsqjGGeIZDlOtYgl-2" value="insertData()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hMRwIOnoSgQv8DuGMqDr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="17hIO7BspnH3E3R9fESI-1" target="hMRwIOnoSgQv8DuGMqDr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17hIO7BspnH3E3R9fESI-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="25" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hMRwIOnoSgQv8DuGMqDr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hMRwIOnoSgQv8DuGMqDr-6" target="hMRwIOnoSgQv8DuGMqDr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hMRwIOnoSgQv8DuGMqDr-6" value="Ambil semua&amp;nbsp;&lt;div&gt;data yang diinput&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="280" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hMRwIOnoSgQv8DuGMqDr-11" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hMRwIOnoSgQv8DuGMqDr-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hMRwIOnoSgQv8DuGMqDr-12" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hMRwIOnoSgQv8DuGMqDr-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75.33333333333337" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hMRwIOnoSgQv8DuGMqDr-8" value="Apakah salah&lt;div&gt;satu data&lt;/div&gt;&lt;div&gt;kosong?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="440" width="115" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
