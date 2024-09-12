@@ -280,7 +280,7 @@
         <mxCell id="8yMQijnILedgMZJfuDtl-28" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1060" y="550" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="12nfgGCqbrmoUAJh77Tb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8yMQijnILedgMZJfuDtl-34" target="12nfgGCqbrmoUAJh77Tb-5">
+        <mxCell id="12nfgGCqbrmoUAJh77Tb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yMQijnILedgMZJfuDtl-34" target="12nfgGCqbrmoUAJh77Tb-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8yMQijnILedgMZJfuDtl-34" value="Generate uniqId()" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -345,14 +345,20 @@
         <mxCell id="8yMQijnILedgMZJfuDtl-66" value="Memasukkan&lt;div&gt;data asli ke&lt;/div&gt;&lt;div&gt;folder img&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1260" y="310" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="12nfgGCqbrmoUAJh77Tb-5" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="560" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="12nfgGCqbrmoUAJh77Tb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="12nfgGCqbrmoUAJh77Tb-7" target="8yMQijnILedgMZJfuDtl-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12nfgGCqbrmoUAJh77Tb-7" value="Masukkan data ke database" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="410" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="12nfgGCqbrmoUAJh77Tb-11" value="Return new&amp;nbsp;&lt;div&gt;name&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12nfgGCqbrmoUAJh77Tb-13" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12nfgGCqbrmoUAJh77Tb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="12nfgGCqbrmoUAJh77Tb-11" target="12nfgGCqbrmoUAJh77Tb-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
