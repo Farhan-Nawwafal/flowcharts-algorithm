@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lPpZP6LzkKDqqo-HPEpt" name="functions">
-    <mxGraphModel dx="1032" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,7 +276,7 @@
         <mxCell id="12nfgGCqbrmoUAJh77Tb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8yMQijnILedgMZJfuDtl-24" target="8yMQijnILedgMZJfuDtl-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8yMQijnILedgMZJfuDtl-24" value="Size &amp;lt; 2 MB ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="8yMQijnILedgMZJfuDtl-24" value="Size &amp;gt; 2 MB ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1060" y="215" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8yMQijnILedgMZJfuDtl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8yMQijnILedgMZJfuDtl-16" target="8yMQijnILedgMZJfuDtl-24" edge="1">
@@ -318,7 +318,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8yMQijnILedgMZJfuDtl-47" value="False?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="8yMQijnILedgMZJfuDtl-47" value="Apakah gambar&amp;nbsp;&lt;div&gt;yang diupload ?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="400" y="300" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8yMQijnILedgMZJfuDtl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wADcMjuGR_z911UWzF_Z-9" target="8yMQijnILedgMZJfuDtl-47" edge="1">
